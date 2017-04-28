@@ -1,0 +1,16 @@
+body {
+    padding-top: 50px;
+}
+
+.hints {
+    color: #AAA;
+}
+
+.the-result {
+
+    color: #000;
+}
+
+.alert{
+  display: none;
+}
